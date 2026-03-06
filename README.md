@@ -25,3 +25,9 @@ https://github.com/ssarunyu/CP25PL3-JobSpark-Mobile
 - Role-based authorization
 - Mobile application integration
 - Scalable backend system design
+
+## Author
+Sarunyu
+Front-end Developer
+
+GitHub: https://github.co
