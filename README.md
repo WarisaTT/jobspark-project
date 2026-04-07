@@ -1,4 +1,4 @@
-# <img src="./.gemini/antigravity/brain/1201c2f0-e946-4ac6-afc5-b61df7e2d109/jobspark_logo_banner_1775556214781.png" width="100%" alt="JobSpark Banner" />
+# <img src="./jobspark_logo_banner_1775556214781.png" width="100%" alt="JobSpark Banner" />
 
 <div align="center">
 
