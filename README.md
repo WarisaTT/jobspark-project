@@ -131,3 +131,20 @@ flutter run
 <div align="center">
     <i>Built with ❤️ as a Capstone Project @ 2026</i>
 </div>
+
+
+# <img src="./Eye (8).png" width="100%" alt="JobSpark Banner" />
+# <img src="./System Arch.png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (2).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (9).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Technology Stack.png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (3).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (10).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (4).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (11).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (5).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (12).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (6).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (13).png" width="100%" alt="JobSpark Banner" />
+# <img src="./Eye (7).png" width="100%" alt="JobSpark Banner" />
+# <img src="./jobspark_logo_banner_1775556214781.png" width="100%" alt="JobSpark Banner" />
