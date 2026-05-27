@@ -1,8 +1,6 @@
 # <img src="./jobspark_logo_banner_1775556214781.png" width="100%" alt="JobSpark Banner" />
 
 <div align="center">
-
-# ⚡ JobSpark
 ### **Secure & Scalable Job Matching Ecosystem**
 *Bridging the gap between talented students and top-tier companies with security at its core.*
 
