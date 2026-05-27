@@ -130,8 +130,8 @@ flutter run
     <i>Built with ❤️ as a Capstone Project @ 2026</i>
 </div>
 
-
 # <img src="./1.png" width="100%" alt="JobSpark Banner" />
+# <img src="Eye.png" width="100%" alt="JobSpark Banner" />
 # <img src="./Eye (8).png" width="100%" alt="JobSpark Banner" />
 # <img src="./System Arch.png" width="100%" alt="JobSpark Banner" />
 # <img src="./Eye (2).png" width="100%" alt="JobSpark Banner" />
